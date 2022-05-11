@@ -1,0 +1,36 @@
+/* add your CSS here */
+body {
+  padding: 20px;
+}
+
+#container{
+    width: 300px; 
+  border : 2px solid rgb(235, 229, 229);
+  padding: 20px;
+  box-shadow: 10px 10px 10px; rgb(235, 229, 229);
+  
+
+}
+
+img {
+  width: 300px;
+}
+.animal {
+  font-style: italic;
+  border : 1px  solid grey;
+  padding: 1px;
+  
+}
+
+li {
+  list-style: none;
+  font-style: normal;
+}
+
+span { 
+    font-size: 110%;
+    font-weight:bold; 
+}
+#characteristics{
+    font-style: normal;
+}
